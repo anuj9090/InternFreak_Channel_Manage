@@ -1,0 +1,20 @@
+{
+  "name": "InternFreak_Channel_Manage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuj9090/InternFreak_Channel_Manage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+     "url": "https://github.com/anuj9090/InternFreak_Channel_Manage/issues"
+  },
+   "homepage": "https://github.com/anuj9090/InternFreak_Channel_Manage#readme",
+ 
+}
